@@ -2,7 +2,7 @@
   {
     "addon_id": "red-light",
     "nombre": "Red Light",
-    "descripcion": "Hoy ponemos bajo la lupa a una de las novedades más interesantes que ha llegado recientemente a nuestra comunidad: el addon Red Light en Kodi. Se trata de un fork del popular Fen Light, diseñado para ofrecer una experiencia de visualización estable y sin las complicaciones de otros complementos. 🎬 ¿Qué contenido ofrece? Este addon La entrada Cómo Instalar el Addon Red Light en Kodi: El Fork de Fen Light aparece primero en Mundo Kodi .",
+    "descripcion": "Hoy ponemos bajo la lupa a una de las novedades más interesantes que ha llegado recientemente a nuestra comunidad: el addon",
     "tipo": [
       "peliculas_series"
     ],
@@ -22,7 +22,7 @@
   {
     "addon_id": "sporthd",
     "nombre": "SportHD",
-    "descripcion": "Si estás buscando una forma rápida y directa de seguir a tus equipos favoritos, el addon SportHD se mantiene como una de las opciones más sólidas para tu centro multimedia. ⚽ ¿Qué contenido ofrece? Este complemento es una auténtica joya para explorar canales deportivos y transmisiones en vivo. Destaca por ofrecer una agenda diaria impecable La entrada Cómo Instalar Addon SportHD en Kodi [Deportes] aparece primero en Mundo Kodi .",
+    "descripcion": "Si estás buscando una forma rápida y directa de seguir a tus equipos favoritos, el addon",
     "tipo": [
       "deportes"
     ],
@@ -42,7 +42,7 @@
   {
     "addon_id": "jacktook",
     "nombre": "Jacktook",
-    "descripcion": "En esta guía te enseñaremos paso a paso cómo instalar y configurar el addon Jacktook en Kodi, una herramienta potentísima que se está ganando un lugar en los centros multimedia de muchos usuarios. Si buscas la más alta calidad de imagen y un catálogo inmenso, tienes que conocerlo. 🎬 ¿Qué hace especial a Jacktook? Este La entrada Cómo Instalar Addon Jacktook en Kodi aparece primero en Mundo Kodi .",
+    "descripcion": "En esta guía te enseñaremos paso a paso cómo instalar y configurar el",
     "tipo": [
       "todo_en_uno"
     ],
@@ -62,7 +62,7 @@
   {
     "addon_id": "wrestling-rewind",
     "nombre": "Wrestling Rewind",
-    "descripcion": "En esta guía te mostramos cómo instalar el addon Wrestling Rewind en Kodi, el complemento definitivo para los verdaderos fanáticos de la lucha libre y el entretenimiento deportivo. Si buscas revivir los mejores eventos, ponerte al día con los shows semanales o disfrutar de clásicos del cuadrilátero, este es el lugar indicado. 🤼‍♂️ ¿Qué contenido La entrada Cómo Instalar Addon Wrestling Rewind en Kodi aparece primero en Mundo Kodi .",
+    "descripcion": "En esta guía te mostramos cómo instalar el",
     "tipo": [
       "todo_en_uno"
     ],
@@ -82,7 +82,7 @@
   {
     "addon_id": "salts",
     "nombre": "Salts",
-    "descripcion": "Hoy traemos a Mundo Kodi un complemento con un nombre que a muchos usuarios veteranos les sonará familiar y que viene pisando fuerte. Se trata del Addon Salts en Kodi (cuyo nombre completo es Stream All The Sources), una excelente opción para aquellos que buscan un inmenso catálogo de entretenimiento enfocado en la máxima calidad. La entrada Cómo Instalar el Addon Salts en Kodi: Películas, Series y Canales 24/7 aparece primero en Mundo Kodi .",
+    "descripcion": "Hoy traemos a Mundo Kodi un complemento con un nombre que a muchos usuarios veteranos les sonará familiar y que viene pisando fuerte. Se trata del",
     "tipo": [
       "tv_directo"
     ],
@@ -102,7 +102,7 @@
   {
     "addon_id": "hublive",
     "nombre": "HubLive",
-    "descripcion": "En el inmenso mundo de los complementos internacionales, es muy común encontrar listas repletas de canales y películas en inglés o en sus idiomas originales. Sin embargo, hoy te traemos una recomendación que rompe esa regla de la mejor manera posible. Hablamos del Addon HubLive, un complemento todo en uno que se ha convertido rápidamente La entrada Cómo Instalar el Addon HubLive en Kodi [2026]: TV Mundial y Cine en Español aparece primero en Mundo Kodi .",
+    "descripcion": "En el inmenso mundo de los complementos internacionales, es muy común encontrar listas repletas de canales y películas en inglés o en sus idiomas originales. Sin embargo, hoy te traemos una recomendación que rompe esa regla de la mejor manera posible. Hablamos del",
     "tipo": [
       "deportes"
     ],
@@ -122,7 +122,7 @@
   {
     "addon_id": "eagle-espa-a",
     "nombre": "Eagle España",
-    "descripcion": "Si estabas buscando un complemento «todo en uno» que estuviera dedicado especialmente al público español, hoy te traemos una recomendación que no puede faltar en tu centro multimedia. Hablamos del Addon Eagle España, una herramienta completísima diseñada para ofrecer el mejor entretenimiento en idioma castellano. Este complemento destaca por ser una solución integral. A diferencia La entrada Cómo Instalar el Addon Eagle España en Kodi [2026]: TV, Deportes y Cine aparece primero en Mundo Kodi .",
+    "descripcion": "Si estabas buscando un complemento «todo en uno» que estuviera dedicado especialmente al público español, hoy te traemos una recomendación que no puede faltar en tu centro multimedia. Hablamos del",
     "tipo": [
       "deportes"
     ],
@@ -142,9 +142,9 @@
   {
     "addon_id": "black-ghost",
     "nombre": "Black Ghost",
-    "descripcion": "El addon Black Ghost en Kodi es un complemento de video que ofrece una extensa variedad de contenido para satisfacer todos los gustos. Este addon es ideal para quienes buscan disfrutar de canales de TV en vivo, eventos deportivos, películas, series y mucho más, todo en idioma español latino y castellano. La oferta de contenido La entrada Cómo Instalar Addon Black Ghost en Kodi [Todo En Uno] aparece primero en Mundo Kodi .",
+    "descripcion": "Este addon es ideal para quienes buscan disfrutar de",
     "tipo": [
-      "tv_directo"
+      "peliculas_series"
     ],
     "idioma": "es_ambos",
     "tutorial_url": "https://mundokodi.com/addon-black-ghost-en-kodi/",
@@ -156,6 +156,1838 @@
     "fecha_verificado": "2026-05-25",
     "repo_url": "https://bluegray25.github.io",
     "repo_zip": "repository.theblackghost-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "strikes-auto-zone",
+    "nombre": "Strikes Auto Zone",
+    "descripcion": "Cuenta con secciones como Car and Drive, Popular Mechanics, Ratchets y mucho más. Contenido basado en",
+    "tipo": [
+      "todo_en_uno"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-strikes-auto-zone-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "http://rockodi.com",
+    "repo_zip": "repository.Rockcrusher.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "fanime",
+    "nombre": "FANime",
+    "descripcion": "Cuenta con gran cantidad de secciones como por abecedario, por temporadas, por genero, recién añadidas, películas, opción de búsqueda y mucho más.",
+    "tipo": [
+      "anime"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-fanime-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "http://streamarmy.co.uk/repo",
+    "repo_zip": "repository.StreamArmy-xx.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "sportsdevil",
+    "nombre": "SportsDevil",
+    "descripcion": "Con una amplia trayectoria dentro del ecosistema de Kodi, este addon se ha ganado su lugar gracias a su gran variedad de transmisiones deportivas en vivo, disponibles en múltiples idiomas, incluyendo español, inglés y más.",
+    "tipo": [
+      "deportes"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-sportsdevil-en-kodi-actualizacion/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "http://cellardoortv.com/repo",
+    "repo_zip": "repository.cdrepo-x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "chains-and-sinister",
+    "nombre": "Chains And Sinister",
+    "descripcion": "Las secciones con las que cuenta el addon son películas, series, documentales, infantil, WWE, música, youtube y sinister . El addon es compatible con cuentas",
+    "tipo": [
+      "infantil"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-chains-and-sinister-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://myatom.one/AbsolutionBuilds",
+    "repo_zip": "repository.chainsrepo-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "chains",
+    "nombre": "Chains",
+    "descripcion": "Las secciones que podemos encontrar en el addon son Movies, 4K, TV Shows, Documentaries, Music, Stand Up, IMDB y también hay contenido de otros addons.",
+    "tipo": [
+      "conciertos_musica"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-chains-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://team-crew.github.io",
+    "repo_zip": "repository.thecrew-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "aliunde-plus",
+    "nombre": "Aliunde Plus",
+    "descripcion": "El addon cuenta con las categorías de Películas, Series, Recién Añadidas y más. Reproduce contenido en HD y 4K, es necesario contar con cuenta de",
+    "tipo": [
+      "peliculas_series"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-aliunde-plus-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://fuse99.com/aliunde",
+    "repo_zip": "repository.aliunde.x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "build-gt-king-matrix",
+    "nombre": "Build GT King Matrix",
+    "descripcion": "Esta build está dedicada especialmente para los dispositivos de marca beelink, también funciona con otros dispositivos, no se recomienda en dispositivos touch.",
+    "tipo": [
+      "todo_en_uno"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-build-gt-king-matrix-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://gtkingbuild.github.io",
+    "repo_zip": "repository.GTKing-Matrix-x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "fight-club",
+    "nombre": "Fight Club",
+    "descripcion": "Dentro del addon encontramos secciones como UFC, WWE, Battleground, TNA, Boxing y más. El addon está en idioma inglés.",
+    "tipo": [
+      "todo_en_uno"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-fight-club-en-kodi-luchas-y-peleas/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "http://streamarmy.co.uk/repo",
+    "repo_zip": "repository.StreamArmy-xx.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "chain-reaction-lite",
+    "nombre": "Chain Reaction Lite",
+    "descripcion": "Si tienes dudas puedes dejarlas en los comentarios o en cualquiera de nuestras redes sociales.",
+    "tipo": [
+      "peliculas_series"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-chain-reaction-lite-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://team-crew.github.io",
+    "repo_zip": "repository.thecrew-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "watch-wrestling",
+    "nombre": "Watch Wrestling",
+    "descripcion": "Disponible en idioma inglés.",
+    "tipo": [
+      "todo_en_uno"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-watch-wrestling-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "http://mbebe.github.io/blomqvist",
+    "repo_zip": "repository.mbebe.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "shazam",
+    "nombre": "Shazam",
+    "descripcion": "Está disponible en diferentes resoluciones incluyendo 4K, es multienlaces y para su funcionamiento se requiere una cuenta premium como",
+    "tipo": [
+      "peliculas_series"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-shazam-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://mylostsoulspace.co.uk/repo",
+    "repo_zip": "repository.NarcacistWizard-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "festa-kids",
+    "nombre": "Festa Kids",
+    "descripcion": "El addon está disponible en idioma castellano, latino, idioma original y",
+    "tipo": [
+      "infantil"
+    ],
+    "idioma": "es_ambos",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-festa-kids-en-kodi-infantil/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "pendiente_revision",
+    "fecha_verificado": "2026-05-25",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "cine-hall",
+    "nombre": "Cine Hall",
+    "descripcion": "Este complemento de video ofrece una cuidada selección de contenido cinematográfico en diferentes idiomas, incluyendo",
+    "tipo": [
+      "peliculas_series"
+    ],
+    "idioma": "es_ambos",
+    "tutorial_url": "https://mundokodi.com/addon-cine-hall-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "pendiente_revision",
+    "fecha_verificado": "2026-05-25",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "m-e-t-v",
+    "nombre": "M.E.T.V",
+    "descripcion": "El addon cuenta con una gran cantidad de secciones de géneros y búsqueda. Reproduce contenido en HD y 4K, es compatible con",
+    "tipo": [
+      "peliculas_series"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-m-e-t-v-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "http://ezzer-mac.com/repo",
+    "repo_zip": "repository.EzzerMacsWizard.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "mad-titan-sports",
+    "nombre": "Mad Titan Sports",
+    "descripcion": "A través de este addon, los usuarios tienen acceso a una amplia gama de deportes en vivo, repeticiones y canales de televisión relacionados con el mundo del deporte.",
+    "tipo": [
+      "deportes"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-mad-titan-sports-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "http://magnetic.website/repo",
+    "repo_zip": "repository.Magnetic-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "crunchyroll",
+    "nombre": "Crunchyroll",
+    "descripcion": "Es necesaria una cuenta, funciona con todos los planes incluyendo el gratuito. Disponible en los mismos idiomas que la plataforma.",
+    "tipo": [
+      "todo_en_uno"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-crunchyroll-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "pendiente_revision",
+    "fecha_verificado": "2026-05-25",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "tele-latino-hd",
+    "nombre": "Tele Latino HD",
+    "descripcion": "Cuenta con gran número de canales y cada uno con seis alternativas.",
+    "tipo": [
+      "tv_directo"
+    ],
+    "idioma": "es_latino",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-tele-latino-hd-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "http://mbebe.github.io/blomqvist",
+    "repo_zip": "repository.mbebe.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "zero-anime",
+    "nombre": "Zero Anime",
+    "descripcion": "Este addon es ideal para los fanáticos del anime que buscan acceder a una amplia variedad de",
+    "tipo": [
+      "anime"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-zero-anime-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://juansebastian028.github.io/zero-anime-addon",
+    "repo_zip": "plugin.video.zeroanime.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "twitch",
+    "nombre": "Twitch",
+    "descripcion": "Encontramos categorías como destacados, siguiendo, browser, búsqueda y configuración.",
+    "tipo": [
+      "todo_en_uno"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-twitch-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "pendiente_revision",
+    "fecha_verificado": "2026-05-25",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "alfa",
+    "nombre": "Alfa",
+    "descripcion": "Basado en el contenido de las mejores páginas de películas y series de Internet",
+    "tipo": [
+      "anime"
+    ],
+    "idioma": "es_ambos",
+    "tutorial_url": "https://mundokodi.com/addon-alfa-en-kodi-pelisalacarta/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://alfa-addon.com/alfa",
+    "repo_zip": "repository.alfa-addon-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "balandro",
+    "nombre": "Balandro",
+    "descripcion": "Disponible en español latino castellano, inglés y subtitulado.",
+    "tipo": [
+      "peliculas_series"
+    ],
+    "idioma": "es_ambos",
+    "tutorial_url": "https://mundokodi.com/addon-balandro-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://repobal.github.io/base",
+    "repo_zip": "repository.balandro-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "tvone-112",
+    "nombre": "TvOne 112",
+    "descripcion": "El addon es compatible con",
+    "tipo": [
+      "todo_en_uno"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-tvone-112-en-kodi-tv/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://repo.redwizard.xyz",
+    "repo_zip": "repository.redwizard-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "acestream-en-android-instalaci-n-y-configuraci-n",
+    "nombre": "Acestream en Android [Instalación y Configuración]",
+    "descripcion": "Gracias a su tecnología P2P (peer-to-peer), permite reproducir canales de televisión, deportes en directo, películas y otros eventos de manera fluida y en alta calidad.",
+    "tipo": [
+      "deportes"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-acestream-en-android/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "pendiente_revision",
+    "fecha_verificado": "2026-05-25",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "tv-chopo",
+    "nombre": "TV Chopo",
+    "descripcion": "Este addon ha ganado popularidad entre los que utilizamos Kodi debido a su amplia gama de contenido y su estabilidad, lo que lo convierte en una opción ideal para aquellos que buscan una experiencia de entretenimiento completa y sin interrupciones.",
+    "tipo": [
+      "infantil"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-tv-chopo-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://fuente-tvchopo.github.io",
+    "repo_zip": "repository.tvchopo-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "kodi-tv",
+    "nombre": "Kodi TV",
+    "descripcion": "El addon es compatible para",
+    "tipo": [
+      "tv_directo"
+    ],
+    "idioma": "es_ambos",
+    "tutorial_url": "https://mundokodi.com/addon-kodi-tv-en-kodi-chopo/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://fuente-tvchopo.github.io",
+    "repo_zip": "repository.tvchopo-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "torque-lite",
+    "nombre": "Torque Lite",
+    "descripcion": "El addon es compatible con",
+    "tipo": [
+      "deportes"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-torque-lite-en-kodi-motores/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://mylostsoulspace.co.uk/repo",
+    "repo_zip": "repository.LostSoul-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "tvone-tvtap",
+    "nombre": "TvOne TvTap",
+    "descripcion": "Con este complemento, los usuarios pueden disfrutar de una amplia variedad de contenido televisivo, desde",
+    "tipo": [
+      "tv_directo"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-tvone-tvtap-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://repo.redwizard.xyz",
+    "repo_zip": "repository.redwizard-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "patriot",
+    "nombre": "Patriot",
+    "descripcion": "La mayoría de las demás secciones se encuentran en inglés o",
+    "tipo": [
+      "infantil"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-patriot-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://mylostsoulspace.co.uk/repo",
+    "repo_zip": "repository.NarcacistWizard-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "kodiloucos",
+    "nombre": "Kodiloucos",
+    "descripcion": "Dentro del addon podemos encontrar una sección de TV con canales por países de Brasil, Polonia y Portugal.",
+    "tipo": [
+      "tv_directo"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-kodiloucos-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://kodiloucosbr.github.io",
+    "repo_zip": "repository.kodiloucosbr-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "ez-maintenance",
+    "nombre": "EZ Maintenance",
+    "descripcion": "Este addon ofrece una variedad de",
+    "tipo": [
+      "todo_en_uno"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-ez-maintenance-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://peno64.github.io/repository.peno64",
+    "repo_zip": "repository.peno64-x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "portal-tv",
+    "nombre": "Portal TV",
+    "descripcion": "Este addon se destaca por su capacidad para ofrecer una experiencia de entretenimiento completa y diversa, adaptándose a las necesidades y preferencias de los usuarios.",
+    "tipo": [
+      "todo_en_uno"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-portal-tv-en-kodi-espanol/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://dregs1.github.io",
+    "repo_zip": "repository.dregs1-x.xx.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "tacones",
+    "nombre": "Tacones",
+    "descripcion": "Este addon es una excelente opción para los usuarios que buscan una solución integral de entretenimiento en un solo lugar.",
+    "tipo": [
+      "peliculas_series"
+    ],
+    "idioma": "es_castellano",
+    "tutorial_url": "https://mundokodi.com/addon-tacones-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://teamsix-fuente.github.io",
+    "repo_zip": "plugin.video.tacones-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "moes-tv",
+    "nombre": "Moes TV",
+    "descripcion": "A través de este addon, los usuarios pueden disfrutar de una amplia selección de",
+    "tipo": [
+      "tv_directo"
+    ],
+    "idioma": "es_castellano",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-moes-tv-en-kodi-castellano/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://stva.es/r",
+    "repo_zip": "repository.stva.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "latin-sports",
+    "nombre": "Latin Sports",
+    "descripcion": "Este addon está diseñado para los aficionados al deporte que prefieren seguir sus",
+    "tipo": [
+      "deportes"
+    ],
+    "idioma": "es_ambos",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-latin-sports-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "pendiente_revision",
+    "fecha_verificado": "2026-05-25",
+    "repo_zip": "plugin.video.LatinSports-main.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "ezra",
+    "nombre": "Ezra",
+    "descripcion": "Este addon se ha destacado por su capacidad para ofrecer una experiencia de visualización fluida y de alta calidad, haciendo de él una excelente opción para los usuarios de Kodi que buscan contenido internacional, especialmente en inglés.",
+    "tipo": [
+      "peliculas_series"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-ezra-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://ezra-hubbard.github.io",
+    "repo_zip": "repository.ezra-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "coalition",
+    "nombre": "Coalition",
+    "descripcion": "Este addon es ideal para quienes buscan disfrutar de las últimas producciones de películas y series de tv, así como clásicos y programas populares, todo desde la comodidad de Kodi.",
+    "tipo": [
+      "peliculas_series"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-coalition-en-kodi-peliculas-y-series/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://team-crew.github.io",
+    "repo_zip": "repository.thecrew-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "asgard",
+    "nombre": "Asgard",
+    "descripcion": "Con este addon, podrás disfrutar de una selección diversa de",
+    "tipo": [
+      "deportes"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-asgard-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://mylostsoulspace.co.uk/repo",
+    "repo_zip": "repository.NarcacistWizard-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "horus",
+    "nombre": "Horus",
+    "descripcion": "Acestream es una tecnología de transmisión P2P conocida por su capacidad para",
+    "tipo": [
+      "deportes"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-horus-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://gtkingbuild.github.io",
+    "repo_zip": "repository.theblackghost-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "the-loop",
+    "nombre": "The Loop",
+    "descripcion": "Con este addon, los usuarios pueden acceder a",
+    "tipo": [
+      "deportes"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-the-loop-2021-en-kodi-deportes/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://loopaddon.uk/theloop",
+    "repo_zip": "repository.loop-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "playlist-bee",
+    "nombre": "Playlist Bee",
+    "descripcion": "Este addon es perfecto para quienes desean acceder a una diversidad de canales de televisión internacional desde la comodidad de su hogar.",
+    "tipo": [
+      "tv_directo"
+    ],
+    "idioma": "es_castellano",
+    "tutorial_url": "https://mundokodi.com/addon-playlist-bee-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://addon-rajada.github.io",
+    "repo_zip": "repository.addon-rajada.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "iptv-buster",
+    "nombre": "IPTV Buster",
+    "descripcion": "Este addon es una excelente opción para quienes desean explorar una",
+    "tipo": [
+      "tv_directo"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-iptv-buster-en-kodi-tv/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://addon-rajada.github.io",
+    "repo_zip": "repository.addon-rajada.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "youtube",
+    "nombre": "YouTube",
+    "descripcion": "Se trata de uno de los addons",
+    "tipo": [
+      "todo_en_uno"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-youtube-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://palantir.5g.in",
+    "repo_zip": "repository.estupalant.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "tecnotv",
+    "nombre": "TecnoTV",
+    "descripcion": "Este complemento de video ofrece una amplia selección de contenido, lo que lo convierte en una opción ideal para quienes buscan entretenimiento en su idioma preferido.",
+    "tipo": [
+      "peliculas_series"
+    ],
+    "idioma": "es_latino",
+    "tutorial_url": "https://mundokodi.com/addon-tecnotv-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "http://tecnotv.club/adkodi",
+    "repo_zip": "plugin.video.tecnotv.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "doqmental",
+    "nombre": "Doqmental",
+    "descripcion": "A través de este addon, los usuarios pueden acceder a una amplia selección de contenido exclusivo en diversas categorías, abarcando temas como historia, ciencia, naturaleza, tecnología, exploración y más.",
+    "tipo": [
+      "documentales"
+    ],
+    "idioma": "es_castellano",
+    "tutorial_url": "https://mundokodi.com/addon-doqmental-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://gtkingbuild.github.io",
+    "repo_zip": "repository.GTKing-Phoenix-xx.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "skyline",
+    "nombre": "Skyline",
+    "descripcion": "A través de este addon, los usuarios pueden observar en tiempo real distintos lugares como",
+    "tipo": [
+      "todo_en_uno"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-skyline-en-kodi-webcams/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://bugatsinho.github.io/repo",
+    "repo_zip": "repository.bugatshino-x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "fenix-mac",
+    "nombre": "Fenix Mac",
+    "descripcion": "Este addon se ha convertido en una opción popular dentro de la comunidad Kodi por su capacidad de reunir",
+    "tipo": [
+      "tv_directo"
+    ],
+    "idioma": "es_ambos",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-fenix-mac-en-kodi-listas-iptv/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://dregs1.github.io",
+    "repo_zip": "repository.dregs-x.xx.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "tvloucos-mundi",
+    "nombre": "TVLoucos Mundi",
+    "descripcion": "Es una excelente opción para quienes desean acceder a una programación variada sin complicaciones, directamente desde Kodi.",
+    "tipo": [
+      "todo_en_uno"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-tvloucos-mundi-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://kodiloucosbr.github.io",
+    "repo_zip": "repository.kodiloucosbr-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "plex-live",
+    "nombre": "Plex Live",
+    "descripcion": "Este addon es ideal para quienes buscan acceder a una amplia variedad de programación televisiva directamente desde Kodi,",
+    "tipo": [
+      "tv_directo"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-plex-live-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://k.slyguy.xyz",
+    "repo_zip": "repository.slyguy.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "dradis",
+    "nombre": "Dradis",
+    "descripcion": "Este addon está orientado principalmente al contenido en",
+    "tipo": [
+      "peliculas_series"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-dradis-en-kodi-peliculas-y-series/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://kodifitzwell.github.io/repo",
+    "repo_zip": "repository.kodifitzwell-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "sr-regio",
+    "nombre": "Sr Regio",
+    "descripcion": "Este addon se ha ganado popularidad por su enfoque en proporcionar contenido de calidad y por su facilidad de uso, lo que lo convierte en una excelente opción tanto para usuarios nuevos como para aquellos más experimentados en el uso de Kodi.",
+    "tipo": [
+      "deportes"
+    ],
+    "idioma": "es_latino",
+    "tutorial_url": "https://mundokodi.com/addon-sr-regio-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "pendiente_revision",
+    "fecha_verificado": "2026-05-25",
+    "repo_zip": "plugin.video.srregiox.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "kodi-spain",
+    "nombre": "Kodi Spain",
+    "descripcion": "Este addon es una opción para quienes desean acceder a contenido en su idioma, ofreciendo una amplia variedad de entretenimiento como tv en vivo, eventos deportivos y mucho más.",
+    "tipo": [
+      "tv_directo"
+    ],
+    "idioma": "es_castellano",
+    "tutorial_url": "https://mundokodi.com/addon-kodi-spain-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://teamsix-fuente.github.io",
+    "repo_zip": "plugin.video.kodispaintv-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "samsung-tv-plus",
+    "nombre": "Samsung TV Plus",
+    "descripcion": "Este addon brinda la posibilidad de disfrutar de una gran variedad de contenido televisivo, desde",
+    "tipo": [
+      "todo_en_uno"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-samsung-tv-plus-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://k.slyguy.xyz",
+    "repo_zip": "repository.slyguy.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "z3ro-cinema",
+    "nombre": "Z3ro Cinema",
+    "descripcion": "Este addon ofrece una amplia variedad de",
+    "tipo": [
+      "peliculas_series"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-z3ro-cinema-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://mylostsoulspace.co.uk/repo",
+    "repo_zip": "repository.LostSoul-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "fen-light-am",
+    "nombre": "Fen Light AM",
+    "descripcion": "Tras el retiro del desarrollador original, esta versión renovada mantiene el espíritu del addon original, pero ahora con soporte activo y mejoras significativas en estabilidad, rendimiento y compatibilidad.",
+    "tipo": [
+      "peliculas_series"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-fen-light-am-en-kodi-peliculas-y-series/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://fenlightanonymouse.github.io/packages",
+    "repo_zip": "plugin.video.fenlight-x.x.xx.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "pluto-tv",
+    "nombre": "Pluto TV",
+    "descripcion": "Este addon es especialmente útil para quienes buscan un acceso rápido y organizado a canales de televisión gratuitos, con categorías que abarcan desde entretenimiento, noticias, deportes, series, películas y mucho más.",
+    "tipo": [
+      "deportes"
+    ],
+    "idioma": "es_ambos",
+    "tutorial_url": "https://mundokodi.com/addon-pluto-tv-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://k.slyguy.xyz",
+    "repo_zip": "repository.slyguy.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "espada-dragao",
+    "nombre": "Espada Dragao",
+    "descripcion": "En su repertorio, cuenta con",
+    "tipo": [
+      "tv_directo"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-espada-dragao-en-kodi-listas-iptv/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://dregs1.github.io",
+    "repo_zip": "repository.dregs1-x.xx.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "magellan",
+    "nombre": "Magellan",
+    "descripcion": "Uno de los puntos más atractivos de Magellan es su versatilidad en cuanto a la oferta de",
+    "tipo": [
+      "deportes"
+    ],
+    "idioma": "es_ambos",
+    "tutorial_url": "https://mundokodi.com/addon-magellan-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://tinyurl.com/magellanrepo",
+    "repo_zip": "repository.magellan.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "daddylive-v2",
+    "nombre": "DaddyLive V2",
+    "descripcion": "A diferencia de las versiones",
+    "tipo": [
+      "deportes"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-daddylive-v2-en-kodi-deportes/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "http://cmanbuildsxyz.com/repo",
+    "repo_zip": "repository.cMaNWizard-x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "a3p",
+    "nombre": "A3P",
+    "descripcion": "A través de este addon, los usuarios pueden disfrutar de",
+    "tipo": [
+      "infantil"
+    ],
+    "idioma": "es_castellano",
+    "tutorial_url": "https://mundokodi.com/addon-atresplayer-en-kodi-chopo/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://is.gd/atresplayer",
+    "repo_zip": "plugin.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "palantir-3",
+    "nombre": "Palantir 3",
+    "descripcion": "Este addon se destaca por su amplia variedad de categorías, permitiendo a los usuarios explorar una gran cantidad de géneros y tipos de contenido.",
+    "tipo": [
+      "peliculas_series"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-palantir-3-en-kodi-peliculas-y-series/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://palantir.5g.in",
+    "repo_zip": "repository.estupalant.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "xumo-play",
+    "nombre": "Xumo Play",
+    "descripcion": "Este addon está basado en la reconocida plataforma de streaming",
+    "tipo": [
+      "peliculas_series"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-xumo-play-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "pendiente_revision",
+    "fecha_verificado": "2026-05-25",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "acestream-channels",
+    "nombre": "Acestream Channels",
+    "descripcion": "Este addon se enfoca en ofrecer contenido exclusivo relacionado con eventos deportivos, utilizando enlaces basados en la tecnología de Acestream.",
+    "tipo": [
+      "deportes"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-acestream-channels-en-kodi-deportes/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://gunter257.github.io/repoachannels",
+    "repo_zip": "repository.acestream-channels.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "chain-reaction",
+    "nombre": "Chain Reaction",
+    "descripcion": "Este addon es ideal para quienes buscan una experiencia de entretenimiento variada y con buena resolución de imagen.",
+    "tipo": [
+      "todo_en_uno"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-chain-reaction-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://unhingedthemes.github.io",
+    "repo_zip": "repository.chainsrepo-x.x.xx.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "fights-on-demand",
+    "nombre": "Fights On Demand",
+    "descripcion": "Este addon se enfoca exclusivamente en contenido bajo demanda, por lo que no encontrarás transmisiones en vivo, pero sí una",
+    "tipo": [
+      "deportes"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-fights-on-demand-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://mylostsoulspace.co.uk/repo",
+    "repo_zip": "repository.NarcacistWizard-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "f1-rewind",
+    "nombre": "F1 Rewind",
+    "descripcion": "Este addon permite revivir los mejores momentos de temporadas pasadas, grandes premios memorables, adelantamientos épicos y mucho más, todo desde la comodidad de tu centro multimedia con Kodi.",
+    "tipo": [
+      "todo_en_uno"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-f1-rewind-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://mylostsoulspace.co.uk/repo",
+    "repo_zip": "repository.zero-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "aguia-branca",
+    "nombre": "Aguia Branca",
+    "descripcion": "Es importante destacar que, dentro de los canales en español, la mayoría están en español castellano, aunque también es posible encontrar algunos contenidos en latino o subtitulados.",
+    "tipo": [
+      "tv_directo"
+    ],
+    "idioma": "es_ambos",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-aguia-branca-en-kodi-tv/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://dregs1.github.io",
+    "repo_zip": "repository.dregs1-x.xx.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "quicksilver",
+    "nombre": "Quicksilver",
+    "descripcion": "Aunque el enfoque principal del addon es el contenido en",
+    "tipo": [
+      "peliculas_series"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-quicksilver-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "http://cmanbuildsxyz.com/repo",
+    "repo_zip": "repository.cMaNWizard-x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "the-chains",
+    "nombre": "The Chains",
+    "descripcion": "Este addon es ideal para quienes buscan una experiencia de entretenimiento variada y con buena resolución de imagen.",
+    "tipo": [
+      "todo_en_uno"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-the-chains-en-kodi-peliculas-wwe-y-mas/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://unhingedthemes.github.io",
+    "repo_zip": "repository.chainsrepo-x.x.xx.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "jokers-absolution",
+    "nombre": "Jokers Absolution",
+    "descripcion": "Este addon se ha ganado popularidad por la variedad de títulos que ofrece, desde producciones clásicas hasta estrenos recientes, con una calidad de imagen que va desde",
+    "tipo": [
+      "peliculas_series"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-jokers-absolution-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://team-crew.github.io",
+    "repo_zip": "repository.thecrew-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "bl-sport",
+    "nombre": "BL Sport",
+    "descripcion": "Este addon ofrece una amplia selección de canales principalmente en inglés, aunque también se puede encontrar contenido en otros idiomas, lo que amplía su alcance para diferentes audiencias.",
+    "tipo": [
+      "deportes"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-bl-sport-en-kodi-deportes/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://cmanbuildsxyz.com/repo",
+    "repo_zip": "repository.cMaNWizard-x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "footy-rewind",
+    "nombre": "Footy Rewind",
+    "descripcion": "En él encontrarás principalmente repeticiones de partidos de las",
+    "tipo": [
+      "deportes"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-footy-rewind-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://mylostsoulspace.co.uk/repo",
+    "repo_zip": "repository.zero-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "dream-machine",
+    "nombre": "Dream Machine",
+    "descripcion": "En él podrás encontrar una gran variedad de",
+    "tipo": [
+      "tv_directo"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-dream-machine-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://www.midian.appboxes.co/wolfyB/Th3L48/repo",
+    "repo_zip": "repository.thelab-xx.x.xx.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "umbrella",
+    "nombre": "Umbrella",
+    "descripcion": "Este complemento ofrece una amplia selección de",
+    "tipo": [
+      "peliculas_series"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-umbrella-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://umbrellaplug.github.io",
+    "repo_zip": "repository.umbrella-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "lobo-espada",
+    "nombre": "Lobo Espada",
+    "descripcion": "A través de este addon, los usuarios pueden acceder a",
+    "tipo": [
+      "todo_en_uno"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-lobo-espada-en-kodi-tv/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://dregs1.github.io",
+    "repo_zip": "repository.dregs1-x.xx.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "black-lightning",
+    "nombre": "Black Lightning",
+    "descripcion": "Esta diversidad lo convierte en una opción atractiva para los usuarios que buscan una experiencia completa de entretenimiento dentro del ecosistema Kodi.",
+    "tipo": [
+      "peliculas_series"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-black-lightning-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "http://cmanbuildsxyz.com/repo",
+    "repo_zip": "repository.cMaNWizard-x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "naranjito",
+    "nombre": "Naranjito",
+    "descripcion": "Dentro del addon encontramos secciones de",
+    "tipo": [
+      "peliculas_series"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-naranjito-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://gtkingbuild.github.io",
+    "repo_zip": "repository.GTKing-Phoenix-xx.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "mi-tele",
+    "nombre": "Mi Tele",
+    "descripcion": "Gracias a su integración, los usuarios pueden acceder a contenido actualizado que se transmite por televisión en España, incluyendo realities, programas de entretenimiento, informativos, contenido infantil, así como eventos deportivos importantes que se transmiten en canales nacionales.",
+    "tipo": [
+      "infantil"
+    ],
+    "idioma": "es_castellano",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-mi-tele-en-kodi-chopo/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://fuente-chopo.github.io",
+    "repo_zip": "repository.tvchopo-x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "tele-madrid",
+    "nombre": "Tele Madrid",
+    "descripcion": "Gracias a su integración, los usuarios pueden acceder a programación actualizada que incluye los populares informativos Telenoticias, programas de actualidad como Madrid Directo, documentales y entretenimiento local.",
+    "tipo": [
+      "documentales"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-tele-madrid-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://fuente-chopo.github.io",
+    "repo_zip": "repository.tvchopo-x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "rtve",
+    "nombre": "RTVE",
+    "descripcion": "Este addon ofrece acceso directo y gratuito a toda la oferta audiovisual de la corporación pública nacional de España.",
+    "tipo": [
+      "todo_en_uno"
+    ],
+    "idioma": "es_castellano",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-rtve-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://fuente-chopo.github.io",
+    "repo_zip": "repository.tvchopo-x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "canalsur-m-s",
+    "nombre": "CanalSur Más",
+    "descripcion": "Este complemento permite acceder a la plataforma oficial de radiotelevisión pública de Andalucía, ofreciendo una ventana directa a una de las regiones con mayor riqueza audiovisual, todo de forma gratuita.",
+    "tipo": [
+      "tv_directo"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-canalsur-mas-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://fuente-chopo.github.io",
+    "repo_zip": "repository.tvchopo-x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "emuchopo",
+    "nombre": "Emuchopo",
+    "descripcion": "A diferencia de otros complementos de",
+    "tipo": [
+      "todo_en_uno"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-emuchopo-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://fuente-chopo.github.io",
+    "repo_zip": "repository.tvchopo-x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "neoflix",
+    "nombre": "NeoFlix",
+    "descripcion": "Este addon se especializa en",
+    "tipo": [
+      "peliculas_series"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-neoflix-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "http://cmanbuildsxyz.com/repo",
+    "repo_zip": "repository.cMaNWizard-x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "addon-distrotv-archivos",
+    "nombre": "Addon DistroTV Archivos",
+    "descripcion": "Si estás buscando expandir tu centro multimedia con contenido gratuito y 100% legal, el addon DistroTV en Kodi es una de las adiciones más interesantes de este año. Este complemento trae a tu interfaz toda la potencia de la plataforma de streaming DistroTV, conocida por su oferta «FAST» (Free Ad-supported Streaming TV). Gracias a su",
+    "tipo": [
+      "tv_directo"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/tag/addon-distrotv/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "pendiente_revision",
+    "fecha_verificado": "2026-05-25",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "addon-hublive-archivos",
+    "nombre": "addon hublive Archivos",
+    "descripcion": "En el inmenso mundo de los complementos internacionales, es muy común encontrar listas repletas de canales y películas en inglés o en sus idiomas originales. Sin embargo, hoy te traemos una recomendación que rompe esa regla de la mejor manera posible. Hablamos del Addon HubLive, un complemento todo en uno que se ha convertido rápidamente",
+    "tipo": [
+      "deportes"
+    ],
+    "idioma": "es_ambos",
+    "tutorial_url": "https://mundokodi.com/tag/addon-hublive/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "pendiente_revision",
+    "fecha_verificado": "2026-05-25",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "addon-k",
+    "nombre": "Addon K",
+    "descripcion": "Encontrar un complemento estable para ver televisión en vivo suele ser uno de los mayores retos para los usuarios de centros multimedia. Los enlaces cambian constantemente y los canales se caen. Sin embargo, hoy te traemos una excelente alternativa que está dando mucho de qué hablar: en esta guía te enseñaremos cómo instalar el addon",
+    "tipo": [
+      "tv_directo"
+    ],
+    "idioma": "es_castellano",
+    "tutorial_url": "https://mundokodi.com/tag/addon-k-pt/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "pendiente_revision",
+    "fecha_verificado": "2026-05-25",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "la-build-esparta",
+    "nombre": "la Build Esparta",
+    "descripcion": "Si quieres transformar tu centro multimedia sin tener que configurar todo desde cero, instalar la",
+    "tipo": [
+      "todo_en_uno"
+    ],
+    "idioma": "es_castellano",
+    "tutorial_url": "https://mundokodi.com/como-instalar-build-esparta-en-kodi-espanol/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://kodifacil.com/iluvatar",
+    "repo_zip": "plugin.program.iluvatarchef.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "vavoo",
+    "nombre": "Vavoo",
+    "descripcion": "Si eres un buscador incansable de televisión en directo y listas IPTV estables, seguramente has escuchado hablar de la famosa aplicación Vavoo. La excelente noticia es que no necesitas salir de tu centro multimedia para disfrutar de sus beneficios, ya que configurar el",
+    "tipo": [
+      "tv_directo"
+    ],
+    "idioma": "es_ambos",
+    "tutorial_url": "https://mundokodi.com/addon-vavoo-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://michaz1988.github.io/repo",
+    "repo_zip": "plugin.video.vavooto-XXX-XX-XX.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "addon-jt-sports-archivos",
+    "nombre": "addon jt sports Archivos",
+    "descripcion": "Si eres un fanático de los deportes y estás cansado de enlaces rotos o transmisiones de baja calidad, hoy te traemos una solución de alto rendimiento. Configurar el addon JT Sports en Kodi (o como algunos lo conocen por sus siglas reales, el addon de los ‘deportes rebeldes’) es abrir una puerta directa al mejor",
+    "tipo": [
+      "deportes"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/tag/addon-jt-sports/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "pendiente_revision",
+    "fecha_verificado": "2026-05-25",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "jt-sports",
+    "nombre": "JT Sports",
+    "descripcion": "Si eres un fanático de los deportes y estás cansado de enlaces rotos o transmisiones de baja calidad, hoy te traemos una solución de alto rendimiento. Configurar el",
+    "tipo": [
+      "deportes"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-jt-sports-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://jlatorreaguilar.github.io/jodeteTebas/repo",
+    "repo_zip": "repository.jodete_tebas-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "addon-eagle-blvck",
+    "nombre": "addon eagle blvck",
+    "descripcion": "Si estás en la búsqueda constante de listas IPTV estables y quieres tener acceso a la televisión de diferentes partes del mundo en un solo lugar, el addon Eagle Blvck en Kodi es una opción que definitivamente debes tener en tu radar. Este complemento se especializa en recopilar transmisiones de televisión en vivo a nivel",
+    "tipo": [
+      "tv_directo"
+    ],
+    "idioma": "es_latino",
+    "tutorial_url": "https://mundokodi.com/tag/addon-eagle-blvck-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "pendiente_revision",
+    "fecha_verificado": "2026-05-25",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "eagle-blvck",
+    "nombre": "Eagle Blvck",
+    "descripcion": "Si estás en la búsqueda constante de listas IPTV estables y quieres tener acceso a la televisión de diferentes partes del mundo en un solo lugar, el",
+    "tipo": [
+      "tv_directo"
+    ],
+    "idioma": "es_latino",
+    "tutorial_url": "https://mundokodi.com/addon-eagle-blvck-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://dregs1.github.io",
+    "repo_zip": "repository.dregs1-x.xx.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "addon-salts-kodi-archivos",
+    "nombre": "addon salts kodi Archivos",
+    "descripcion": "Hoy traemos a Mundo Kodi un complemento con un nombre que a muchos usuarios veteranos les sonará familiar y que viene pisando fuerte. Se trata del Addon Salts en Kodi (cuyo nombre completo es Stream All The Sources), una excelente opción para aquellos que buscan un inmenso catálogo de entretenimiento enfocado en la máxima calidad.",
+    "tipo": [
+      "tv_directo"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/tag/addon-salts-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "pendiente_revision",
+    "fecha_verificado": "2026-05-25",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "addon-red-light",
+    "nombre": "addon red light",
+    "descripcion": "Hoy ponemos bajo la lupa a una de las novedades más interesantes que ha llegado recientemente a nuestra comunidad: el addon Red Light en Kodi. Se trata de un fork del popular Fen Light, diseñado para ofrecer una experiencia de visualización estable y sin las complicaciones de otros complementos. 🎬 ¿Qué contenido ofrece? Este addon",
+    "tipo": [
+      "peliculas_series"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/tag/addon-red-light-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "pendiente_revision",
+    "fecha_verificado": "2026-05-25",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25"
   }
