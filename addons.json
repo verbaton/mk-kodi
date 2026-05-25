@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "addon_id": "c-mo-instalar-el-addon-red-light-en-kodi-el-fork-de-fen-light",
+    "nombre": "Cómo Instalar el Addon Red Light en Kodi: El Fork de Fen Light",
+    "descripcion": "Hoy ponemos bajo la lupa a una de las novedades más interesantes que ha llegado recientemente a nuestra comunidad: el addon Red Light en Kodi. Se trata de un fork del popular Fen Light, diseñado para ofrecer una experiencia de visualización estable y sin las complicaciones de otros complementos. 🎬 ¿Qué contenido ofrece? Este addon La entrada Cómo Instalar el Addon Red Light en Kodi: El Fork de Fen Light aparece primero en Mundo Kodi .",
+    "tipo": [
+      "peliculas_series"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-el-addon-red-light-en-kodi-el-fork-de-fen-light/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://repo.redwizard.xyz",
+    "repo_zip": "repository.redwizard-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
+  }
+]
