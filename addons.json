@@ -32,11 +32,12 @@
       "21",
       "20"
     ],
-    "estado": "pendiente_revision",
+    "estado": "ok",
     "fecha_verificado": "2026-05-25",
     "repo_zip": "repository.bugatshino-x.x.zip",
     "fecha_añadido": "2026-05-25",
-    "fecha_actualizado": "2026-05-25"
+    "fecha_actualizado": "2026-05-25",
+    "repo_url": "https://bugatsinho.github.io/repo"
   },
   {
     "addon_id": "jacktook",
