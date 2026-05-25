@@ -37,5 +37,25 @@
     "repo_zip": "repository.bugatshino-x.x.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "c-mo-instalar-addon-jacktook-en-kodi",
+    "nombre": "Cómo Instalar Addon Jacktook en Kodi",
+    "descripcion": "En esta guía te enseñaremos paso a paso cómo instalar y configurar el addon Jacktook en Kodi, una herramienta potentísima que se está ganando un lugar en los centros multimedia de muchos usuarios. Si buscas la más alta calidad de imagen y un catálogo inmenso, tienes que conocerlo. 🎬 ¿Qué hace especial a Jacktook? Este La entrada Cómo Instalar Addon Jacktook en Kodi aparece primero en Mundo Kodi .",
+    "tipo": [
+      "todo_en_uno"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-jacktook-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://sam-max.github.io/repository.jacktook",
+    "repo_zip": "repository.jacktook-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
   }
 ]
