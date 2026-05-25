@@ -18,5 +18,24 @@
     "repo_zip": "repository.redwizard-x.x.x.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "c-mo-instalar-addon-sporthd-en-kodi-deportes",
+    "nombre": "Cómo Instalar Addon SportHD en Kodi [Deportes]",
+    "descripcion": "Si estás buscando una forma rápida y directa de seguir a tus equipos favoritos, el addon SportHD se mantiene como una de las opciones más sólidas para tu centro multimedia. ⚽ ¿Qué contenido ofrece? Este complemento es una auténtica joya para explorar canales deportivos y transmisiones en vivo. Destaca por ofrecer una agenda diaria impecable La entrada Cómo Instalar Addon SportHD en Kodi [Deportes] aparece primero en Mundo Kodi .",
+    "tipo": [
+      "deportes"
+    ],
+    "idioma": "es_castellano",
+    "tutorial_url": "https://mundokodi.com/addon-sporthd-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "pendiente_revision",
+    "fecha_verificado": "2026-05-25",
+    "repo_zip": "repository.bugatshino-x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
   }
 ]
