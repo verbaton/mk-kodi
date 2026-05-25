@@ -77,5 +77,25 @@
     "repo_zip": "repository.zero-x.x.x.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "salts",
+    "nombre": "Salts",
+    "descripcion": "Hoy traemos a Mundo Kodi un complemento con un nombre que a muchos usuarios veteranos les sonará familiar y que viene pisando fuerte. Se trata del Addon Salts en Kodi (cuyo nombre completo es Stream All The Sources), una excelente opción para aquellos que buscan un inmenso catálogo de entretenimiento enfocado en la máxima calidad. La entrada Cómo Instalar el Addon Salts en Kodi: Películas, Series y Canales 24/7 aparece primero en Mundo Kodi .",
+    "tipo": [
+      "tv_directo"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-salts-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://repo.redwizard.xyz",
+    "repo_zip": "repository.redwizard-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
   }
 ]
