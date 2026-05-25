@@ -57,5 +57,25 @@
     "repo_zip": "repository.jacktook-x.x.x.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "wrestling-rewind",
+    "nombre": "Wrestling Rewind",
+    "descripcion": "En esta guía te mostramos cómo instalar el addon Wrestling Rewind en Kodi, el complemento definitivo para los verdaderos fanáticos de la lucha libre y el entretenimiento deportivo. Si buscas revivir los mejores eventos, ponerte al día con los shows semanales o disfrutar de clásicos del cuadrilátero, este es el lugar indicado. 🤼‍♂️ ¿Qué contenido La entrada Cómo Instalar Addon Wrestling Rewind en Kodi aparece primero en Mundo Kodi .",
+    "tipo": [
+      "todo_en_uno"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/como-instalar-addon-wrestling-rewind-en-kodi-luchas/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://mylostsoulspace.co.uk/repo",
+    "repo_zip": "repository.zero-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
   }
 ]
