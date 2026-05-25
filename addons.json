@@ -136,5 +136,25 @@
     "repo_zip": "repository.dregs1-x.xx.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "black-ghost",
+    "nombre": "Black Ghost",
+    "descripcion": "El addon Black Ghost en Kodi es un complemento de video que ofrece una extensa variedad de contenido para satisfacer todos los gustos. Este addon es ideal para quienes buscan disfrutar de canales de TV en vivo, eventos deportivos, películas, series y mucho más, todo en idioma español latino y castellano. La oferta de contenido La entrada Cómo Instalar Addon Black Ghost en Kodi [Todo En Uno] aparece primero en Mundo Kodi .",
+    "tipo": [
+      "tv_directo"
+    ],
+    "idioma": "es_ambos",
+    "tutorial_url": "https://mundokodi.com/addon-black-ghost-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://bluegray25.github.io",
+    "repo_zip": "repository.theblackghost-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
   }
 ]
