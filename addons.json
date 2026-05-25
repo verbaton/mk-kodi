@@ -400,7 +400,7 @@
   {
     "addon_id": "cine-hall",
     "nombre": "Cine Hall",
-    "descripcion": "Este complemento de video ofrece una cuidada selección de contenido cinematográfico en diferentes idiomas, incluyendo",
+    "descripcion": "Addon de cine clasico con contenido en castellano, latino y version original. Categorias: Cine Espanol, Cine Latino, Cine Mudo, Cine Negro, Historico, Comedias, Dramas. Contenido alojado en YouTube. Se instala a traves del addon Kelebek: Kelebek > Peliculas Series y Documentales > Cine Hall > Instalar.",
     "tipo": [
       "peliculas_series"
     ],
@@ -410,10 +410,13 @@
       "21",
       "20"
     ],
-    "estado": "pendiente_revision",
+    "estado": "ok",
     "fecha_verificado": "2026-05-25",
     "fecha_añadido": "2026-05-25",
-    "fecha_actualizado": "2026-05-25"
+    "fecha_actualizado": "2026-05-25",
+    "repo_url": "https://kelebekmariposas.github.io",
+    "repo_zip": "script.kelebek.zip",
+    "repo_nombre": "Kelebek"
   },
   {
     "addon_id": "m-e-t-v",
