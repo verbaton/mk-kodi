@@ -117,5 +117,25 @@
     "repo_zip": "Bee-Queen-x.x.x.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "eagle-espa-a",
+    "nombre": "Eagle España",
+    "descripcion": "Si estabas buscando un complemento «todo en uno» que estuviera dedicado especialmente al público español, hoy te traemos una recomendación que no puede faltar en tu centro multimedia. Hablamos del Addon Eagle España, una herramienta completísima diseñada para ofrecer el mejor entretenimiento en idioma castellano. Este complemento destaca por ser una solución integral. A diferencia La entrada Cómo Instalar el Addon Eagle España en Kodi [2026]: TV, Deportes y Cine aparece primero en Mundo Kodi .",
+    "tipo": [
+      "deportes"
+    ],
+    "idioma": "es_castellano",
+    "tutorial_url": "https://mundokodi.com/addon-eagle-espana-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://dregs1.github.io",
+    "repo_zip": "repository.dregs1-x.xx.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
   }
 ]
