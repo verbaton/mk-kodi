@@ -97,5 +97,25 @@
     "repo_zip": "repository.redwizard-x.x.x.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25"
+  },
+  {
+    "addon_id": "hublive",
+    "nombre": "HubLive",
+    "descripcion": "En el inmenso mundo de los complementos internacionales, es muy común encontrar listas repletas de canales y películas en inglés o en sus idiomas originales. Sin embargo, hoy te traemos una recomendación que rompe esa regla de la mejor manera posible. Hablamos del Addon HubLive, un complemento todo en uno que se ha convertido rápidamente La entrada Cómo Instalar el Addon HubLive en Kodi [2026]: TV Mundial y Cine en Español aparece primero en Mundo Kodi .",
+    "tipo": [
+      "deportes"
+    ],
+    "idioma": "es_ambos",
+    "tutorial_url": "https://mundokodi.com/addon-hublive-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "ok",
+    "fecha_verificado": "2026-05-25",
+    "repo_url": "https://audiosistem.github.io/Bee-Queen",
+    "repo_zip": "Bee-Queen-x.x.x.zip",
+    "fecha_añadido": "2026-05-25",
+    "fecha_actualizado": "2026-05-25"
   }
 ]
