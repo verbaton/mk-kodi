@@ -187,10 +187,10 @@
     "estado": "activo",
     "fecha_verificado": "2026-05-25",
     "repo_url": "http://rockodi.com",
-    "repo_zip": "",
+    "repo_zip": "repository.Rockcrusher-2.8.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "pendiente_revision"
+    "zip_type": "repo"
   },
   {
     "addon_id": "fanime",
@@ -292,10 +292,10 @@
     "estado": "activo",
     "fecha_verificado": "2026-05-25",
     "repo_url": "https://fuse99.com/aliunde",
-    "repo_zip": "",
+    "repo_zip": "repository.aliunde-1.8.2.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "pendiente_revision"
+    "zip_type": "repo"
   },
   {
     "addon_id": "build-gt-king-matrix",
