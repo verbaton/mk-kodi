@@ -1436,7 +1436,9 @@
     "repo_zip": "repository.acestream-channels.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "ambos",
+    "addon_zip": "plugin.video.acestream_channels-1.2.9.zip",
+    "addon_kodi_id": "plugin.video.acestream_channels"
   },
   {
     "addon_id": "chain-reaction",
