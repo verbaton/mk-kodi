@@ -187,10 +187,10 @@
     "estado": "activo",
     "fecha_verificado": "2026-05-25",
     "repo_url": "http://rockodi.com",
-    "repo_zip": "repository.Rockcrusher.x.x.zip",
+    "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "pendiente_revision"
   },
   {
     "addon_id": "fanime",
@@ -292,10 +292,10 @@
     "estado": "activo",
     "fecha_verificado": "2026-05-25",
     "repo_url": "https://fuse99.com/aliunde",
-    "repo_zip": "repository.aliunde.x.x.x.zip",
+    "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "pendiente_revision"
   },
   {
     "addon_id": "build-gt-king-matrix",
@@ -1218,9 +1218,10 @@
     ],
     "estado": "pendiente_revision",
     "fecha_verificado": "2026-05-25",
-    "repo_zip": "plugin.video.srregiox.x.zip",
+    "repo_zip": "",
     "fecha_añadido": "2026-05-25",
-    "fecha_actualizado": "2026-05-25"
+    "fecha_actualizado": "2026-05-25",
+    "zip_type": "pendiente_revision"
   },
   {
     "addon_id": "kodi-spain",
@@ -1892,60 +1893,6 @@
     "zip_type": "repo"
   },
   {
-    "addon_id": "addon-distrotv-archivos",
-    "nombre": "Addon DistroTV Archivos",
-    "descripcion": "Si estás buscando expandir tu centro multimedia con contenido gratuito y 100% legal, el addon DistroTV en Kodi es una de las adiciones más interesantes de este año. Este complemento trae a tu interfaz toda la potencia de la plataforma de streaming DistroTV, conocida por su oferta «FAST» (Free Ad-supported Streaming TV). Gracias a su",
-    "tipo": [
-      "tv_directo"
-    ],
-    "idioma": "es_castellano",
-    "tutorial_url": "https://mundokodi.com/tag/addon-distrotv/",
-    "kodi_version": [
-      "21",
-      "20"
-    ],
-    "estado": "pendiente_revision",
-    "fecha_verificado": "2026-05-25",
-    "fecha_añadido": "2026-05-25",
-    "fecha_actualizado": "2026-05-25"
-  },
-  {
-    "addon_id": "addon-hublive-archivos",
-    "nombre": "addon hublive Archivos",
-    "descripcion": "En el inmenso mundo de los complementos internacionales, es muy común encontrar listas repletas de canales y películas en inglés o en sus idiomas originales. Sin embargo, hoy te traemos una recomendación que rompe esa regla de la mejor manera posible. Hablamos del Addon HubLive, un complemento todo en uno que se ha convertido rápidamente",
-    "tipo": [
-      "deportes"
-    ],
-    "idioma": "es_ambos",
-    "tutorial_url": "https://mundokodi.com/tag/addon-hublive/",
-    "kodi_version": [
-      "21",
-      "20"
-    ],
-    "estado": "pendiente_revision",
-    "fecha_verificado": "2026-05-25",
-    "fecha_añadido": "2026-05-25",
-    "fecha_actualizado": "2026-05-25"
-  },
-  {
-    "addon_id": "addon-k",
-    "nombre": "Addon K",
-    "descripcion": "Encontrar un complemento estable para ver televisión en vivo suele ser uno de los mayores retos para los usuarios de centros multimedia. Los enlaces cambian constantemente y los canales se caen. Sin embargo, hoy te traemos una excelente alternativa que está dando mucho de qué hablar: en esta guía te enseñaremos cómo instalar el addon",
-    "tipo": [
-      "tv_directo"
-    ],
-    "idioma": "es_castellano",
-    "tutorial_url": "https://mundokodi.com/tag/addon-k-pt/",
-    "kodi_version": [
-      "21",
-      "20"
-    ],
-    "estado": "pendiente_revision",
-    "fecha_verificado": "2026-05-25",
-    "fecha_añadido": "2026-05-25",
-    "fecha_actualizado": "2026-05-25"
-  },
-  {
     "addon_id": "la-build-esparta",
     "nombre": "la Build Esparta",
     "descripcion": "Si quieres transformar tu centro multimedia sin tener que configurar todo desde cero, instalar la",
@@ -1988,24 +1935,6 @@
     "zip_type": "pendiente_revision"
   },
   {
-    "addon_id": "addon-jt-sports-archivos",
-    "nombre": "addon jt sports Archivos",
-    "descripcion": "Si eres un fanático de los deportes y estás cansado de enlaces rotos o transmisiones de baja calidad, hoy te traemos una solución de alto rendimiento. Configurar el addon JT Sports en Kodi (o como algunos lo conocen por sus siglas reales, el addon de los ‘deportes rebeldes’) es abrir una puerta directa al mejor",
-    "tipo": [
-      "deportes"
-    ],
-    "idioma": "internacional",
-    "tutorial_url": "https://mundokodi.com/tag/addon-jt-sports/",
-    "kodi_version": [
-      "21",
-      "20"
-    ],
-    "estado": "pendiente_revision",
-    "fecha_verificado": "2026-05-25",
-    "fecha_añadido": "2026-05-25",
-    "fecha_actualizado": "2026-05-25"
-  },
-  {
     "addon_id": "jt-sports",
     "nombre": "JT Sports",
     "descripcion": "Si eres un fanático de los deportes y estás cansado de enlaces rotos o transmisiones de baja calidad, hoy te traemos una solución de alto rendimiento. Configurar el",
@@ -2027,24 +1956,6 @@
     "zip_type": "pendiente_revision"
   },
   {
-    "addon_id": "addon-eagle-blvck",
-    "nombre": "addon eagle blvck",
-    "descripcion": "Si estás en la búsqueda constante de listas IPTV estables y quieres tener acceso a la televisión de diferentes partes del mundo en un solo lugar, el addon Eagle Blvck en Kodi es una opción que definitivamente debes tener en tu radar. Este complemento se especializa en recopilar transmisiones de televisión en vivo a nivel",
-    "tipo": [
-      "tv_directo"
-    ],
-    "idioma": "es_latino",
-    "tutorial_url": "https://mundokodi.com/tag/addon-eagle-blvck-en-kodi/",
-    "kodi_version": [
-      "21",
-      "20"
-    ],
-    "estado": "pendiente_revision",
-    "fecha_verificado": "2026-05-25",
-    "fecha_añadido": "2026-05-25",
-    "fecha_actualizado": "2026-05-25"
-  },
-  {
     "addon_id": "eagle-blvck",
     "nombre": "Eagle Blvck",
     "descripcion": "Si estás en la búsqueda constante de listas IPTV estables y quieres tener acceso a la televisión de diferentes partes del mundo en un solo lugar, el",
@@ -2064,41 +1975,5 @@
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
     "zip_type": "repo"
-  },
-  {
-    "addon_id": "addon-salts-kodi-archivos",
-    "nombre": "addon salts kodi Archivos",
-    "descripcion": "Hoy traemos a Mundo Kodi un complemento con un nombre que a muchos usuarios veteranos les sonará familiar y que viene pisando fuerte. Se trata del Addon Salts en Kodi (cuyo nombre completo es Stream All The Sources), una excelente opción para aquellos que buscan un inmenso catálogo de entretenimiento enfocado en la máxima calidad.",
-    "tipo": [
-      "tv_directo"
-    ],
-    "idioma": "internacional",
-    "tutorial_url": "https://mundokodi.com/tag/addon-salts-kodi/",
-    "kodi_version": [
-      "21",
-      "20"
-    ],
-    "estado": "pendiente_revision",
-    "fecha_verificado": "2026-05-25",
-    "fecha_añadido": "2026-05-25",
-    "fecha_actualizado": "2026-05-25"
-  },
-  {
-    "addon_id": "addon-red-light",
-    "nombre": "addon red light",
-    "descripcion": "Hoy ponemos bajo la lupa a una de las novedades más interesantes que ha llegado recientemente a nuestra comunidad: el addon Red Light en Kodi. Se trata de un fork del popular Fen Light, diseñado para ofrecer una experiencia de visualización estable y sin las complicaciones de otros complementos. 🎬 ¿Qué contenido ofrece? Este addon",
-    "tipo": [
-      "peliculas_series"
-    ],
-    "idioma": "internacional",
-    "tutorial_url": "https://mundokodi.com/tag/addon-red-light-en-kodi/",
-    "kodi_version": [
-      "21",
-      "20"
-    ],
-    "estado": "pendiente_revision",
-    "fecha_verificado": "2026-05-25",
-    "fecha_añadido": "2026-05-25",
-    "fecha_actualizado": "2026-05-25"
   }
 ]
