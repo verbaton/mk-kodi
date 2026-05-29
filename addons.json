@@ -1922,5 +1922,26 @@
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
     "zip_type": "repo"
+  },
+  {
+    "addon_id": "the-gears",
+    "nombre": "The Gears",
+    "descripcion": "Hoy queremos presentarte una opción fantástica si estás buscando un complemento de video robusto, rápido y enfocado en darte la mejor experiencia multimedia: el addon The Gears en Kodi .",
+    "tipo": [
+      "peliculas_series"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-the-gears-en-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "activo",
+    "fecha_verificado": "2026-05-29",
+    "repo_url": "https://unhingedthemes.github.io",
+    "repo_zip": "repository.chainsrepo-0.0.15.zip",
+    "zip_type": "repo",
+    "fecha_añadido": "2026-05-29",
+    "fecha_actualizado": "2026-05-29"
   }
 ]
