@@ -84,7 +84,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "salts",
@@ -128,7 +128,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "eagle-espana",
@@ -233,7 +233,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "chains-and-sinister",
@@ -254,7 +254,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "chains",
@@ -380,7 +380,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "festa-kids",
@@ -399,7 +399,7 @@
     "fecha_verificado": "2026-05-31",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "cine-hall",
@@ -421,7 +421,7 @@
     "repo_url": "https://kelebekmariposas.github.io",
     "repo_zip": "script.kelebek.zip",
     "repo_nombre": "Kelebek",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "m-e-t-v",
@@ -463,7 +463,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "crunchyroll",
@@ -482,7 +482,7 @@
     "fecha_verificado": "2026-05-31",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "tele-latino-hd",
@@ -545,7 +545,7 @@
     "fecha_verificado": "2026-05-31",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "alfa",
@@ -633,7 +633,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "kodi-tv",
@@ -654,7 +654,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "torque-lite",
@@ -675,7 +675,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "tvone-tvtap",
@@ -719,7 +719,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "kodiloucos",
@@ -803,7 +803,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "moes-tv",
@@ -844,7 +844,7 @@
     "repo_zip": "plugin.video.LatinSports-main.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "ezra",
@@ -865,7 +865,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "coalition",
@@ -907,7 +907,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "horus",
@@ -928,7 +928,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "the-loop",
@@ -1018,7 +1018,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "tecnotv",
@@ -1062,7 +1062,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "skyline",
@@ -1187,7 +1187,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "kodi-spain",
@@ -1208,7 +1208,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "samsung-tv-plus",
@@ -1250,7 +1250,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "fen-light-am",
@@ -1271,7 +1271,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "pluto-tv",
@@ -1376,7 +1376,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "palantir-3",
@@ -1416,7 +1416,7 @@
     "fecha_verificado": "2026-05-31",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "acestream-channels",
@@ -1481,7 +1481,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "f1-rewind",
@@ -1502,7 +1502,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "aguia-branca",
@@ -1628,7 +1628,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "dream-machine",
@@ -1733,7 +1733,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "mi-tele",
@@ -1754,7 +1754,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "tele-madrid",
@@ -1775,7 +1775,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "rtve",
@@ -1796,7 +1796,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "canalsur-mas",
@@ -1817,7 +1817,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "emuchopo",
@@ -1838,7 +1838,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "neoflix",
@@ -1880,7 +1880,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "jt-sports",
@@ -1901,7 +1901,7 @@
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
-    "zip_type": "pendiente_revision"
+    "instalable": false
   },
   {
     "addon_id": "eagle-blvck",
