@@ -1944,5 +1944,26 @@
     "zip_type": "repo",
     "fecha_añadido": "2026-05-29",
     "fecha_actualizado": "2026-05-29"
+  },
+  {
+    "addon_id": "magellan-github-io",
+    "nombre": "magellan.github.io",
+    "descripcion": "",
+    "tipo": [
+      "todo_en_uno"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "activo",
+    "fecha_verificado": "2026-06-03",
+    "repo_url": "https://euro2000.github.io/magellan.github.io",
+    "fecha_añadido": "2026-06-03",
+    "fecha_actualizado": "2026-06-03",
+    "repo_zip": "repository.magellan.zip",
+    "zip_type": "repo"
   }
 ]
