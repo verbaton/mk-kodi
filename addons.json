@@ -13,14 +13,15 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://repo.redwizard.xyz",
     "repo_zip": "repository.redwizard-1.2.2.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
     "addon_zip": "plugin.program.theredwizard-4.3.0.zip",
     "addon_kodi_id": "plugin.program.theredwizard",
-    "zip_type": "ambos"
+    "zip_type": "ambos",
+    "sha256": "967f93b8c678f5356799a63f32b41eb67b8ef810c6ba3cf48e89e778afd8c103"
   },
   {
     "addon_id": "sporthd",
@@ -36,13 +37,14 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://bugatsinho.github.io/repo",
     "repo_zip": "repository.bugatsinho-2.8.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
     "zip_type": "repo",
-    "nueva_version_disponible": true
+    "nueva_version_disponible": true,
+    "sha256": "879c916ca78f708fc5328d64d13b0fca5dbe0ca86041b69ddec60ddd9e90dcd4"
   },
   {
     "addon_id": "jacktook",
@@ -58,12 +60,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://sam-max.github.io/repository.jacktook",
     "repo_zip": "repository.jacktook-0.0.5.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "2ab25bbed089accf3d837d8de68ff0113358ba71c4d6a28430ceda24acac4e78"
   },
   {
     "addon_id": "wrestling-rewind",
@@ -79,7 +82,7 @@
       "20"
     ],
     "estado": "caído",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://mylostsoulspace.co.uk/repo",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -100,14 +103,15 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://repo.redwizard.xyz",
     "repo_zip": "repository.redwizard-1.2.2.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
     "addon_zip": "plugin.program.theredwizard-4.3.0.zip",
     "addon_kodi_id": "plugin.program.theredwizard",
-    "zip_type": "ambos"
+    "zip_type": "ambos",
+    "sha256": "967f93b8c678f5356799a63f32b41eb67b8ef810c6ba3cf48e89e778afd8c103"
   },
   {
     "addon_id": "hublive",
@@ -123,7 +127,7 @@
       "20"
     ],
     "estado": "dudoso",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://audiosistem.github.io/Bee-Queen",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -144,12 +148,14 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://dregs1.github.io",
     "repo_zip": "repository.dregs-2.36.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "nueva_version_disponible": true,
+    "sha256": "b10aeb7988b5f8f913064552d5dda42b325ef90521a49936965c8598cf244d1e"
   },
   {
     "addon_id": "black-ghost",
@@ -165,12 +171,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://bluegray25.github.io",
     "repo_zip": "repository.theblackghost-0.0.9.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "30817eb2a82170261a093e64c61b91c8320558973c658aa206b1dd9414a4588b"
   },
   {
     "addon_id": "strikes-auto-zone",
@@ -186,7 +193,7 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "http://rockodi.com",
     "repo_zip": "repository.Rockcrusher-2.8.zip",
     "fecha_añadido": "2026-05-25",
@@ -207,12 +214,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "http://streamarmy.co.uk/repo",
     "repo_zip": "repository.StreamArmy.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "bee7d26256fa625d0150d4105f348424e472984da460628c623ad06b68b1ff36"
   },
   {
     "addon_id": "sportsdevil",
@@ -228,7 +236,7 @@
       "20"
     ],
     "estado": "dudoso",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "http://cellardoortv.com/repo",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -249,7 +257,7 @@
       "20"
     ],
     "estado": "caído",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://myatom.one/AbsolutionBuilds",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -270,12 +278,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://team-crew.github.io",
     "repo_zip": "repository.thecrew-0.3.8.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "686e616ecd7d60906fd7975fe9ccaa09360c8cf0c65ba3431e6d81700b0f6ec0"
   },
   {
     "addon_id": "aliunde-plus",
@@ -291,12 +300,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://fuse99.com/aliunde",
     "repo_zip": "repository.aliunde-1.8.2.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "08e022349ac1ac30c9d69b044e82731e5737c1839be42f41599dd58180eeb4af"
   },
   {
     "addon_id": "fight-club",
@@ -312,12 +322,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "http://streamarmy.co.uk/repo",
     "repo_zip": "repository.StreamArmy.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "bee7d26256fa625d0150d4105f348424e472984da460628c623ad06b68b1ff36"
   },
   {
     "addon_id": "chain-reaction-lite",
@@ -333,12 +344,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://team-crew.github.io",
     "repo_zip": "repository.thecrew-0.3.8.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "686e616ecd7d60906fd7975fe9ccaa09360c8cf0c65ba3431e6d81700b0f6ec0"
   },
   {
     "addon_id": "watch-wrestling",
@@ -354,12 +366,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "http://mbebe.github.io/blomqvist",
     "repo_zip": "repository.mbebe.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "1036973a6f5f06e9812d4a9fa215b41b0f46a1c27595728a3857b8b2c440ec49"
   },
   {
     "addon_id": "shazam",
@@ -375,7 +388,7 @@
       "20"
     ],
     "estado": "caído",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://mylostsoulspace.co.uk/repo",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -396,7 +409,7 @@
       "20"
     ],
     "estado": "pendiente_revision",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
     "instalable": false
@@ -415,7 +428,7 @@
       "20"
     ],
     "estado": "dudoso",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
     "repo_url": "https://kelebekmariposas.github.io",
@@ -437,7 +450,7 @@
       "20"
     ],
     "estado": "dudoso",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "http://ezzer-mac.com/repo",
     "repo_zip": "repository.EzzerMacsWizard.zip",
     "fecha_añadido": "2026-05-25",
@@ -458,7 +471,7 @@
       "20"
     ],
     "estado": "caído",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "http://magnetic.website/repo",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -479,7 +492,7 @@
       "20"
     ],
     "estado": "pendiente_revision",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
     "instalable": false
@@ -498,12 +511,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "http://mbebe.github.io/blomqvist",
     "repo_zip": "repository.mbebe.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "1036973a6f5f06e9812d4a9fa215b41b0f46a1c27595728a3857b8b2c440ec49"
   },
   {
     "addon_id": "zero-anime",
@@ -519,7 +533,7 @@
       "20"
     ],
     "estado": "dudoso",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://juansebastian028.github.io/zero-anime-addon",
     "repo_zip": "plugin.video.zeroanime.zip",
     "fecha_añadido": "2026-05-25",
@@ -542,7 +556,7 @@
       "20"
     ],
     "estado": "pendiente_revision",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
     "instalable": false
@@ -561,12 +575,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://alfa-addon.com/alfa",
     "repo_zip": "repository.alfa-addon.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "c94aef019b5b2232ff10ecce703af2931a43d7cdf55bd0277262da7b7cda47e4"
   },
   {
     "addon_id": "balandro",
@@ -582,14 +597,15 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://repobal.github.io/base",
     "repo_zip": "repository.balandro-4.0.1.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
     "addon_zip": "plugin.video.balandro-4.0.28.zip",
     "addon_kodi_id": "plugin.video.balandro",
-    "zip_type": "ambos"
+    "zip_type": "ambos",
+    "sha256": "9f90669a314ea46c63851b3ecd0f3ac4b55f1f94c6bd5088c22676ff63c75ac5"
   },
   {
     "addon_id": "tvone-112",
@@ -605,14 +621,15 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://repo.redwizard.xyz",
     "repo_zip": "repository.redwizard-1.2.2.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
     "addon_zip": "plugin.program.theredwizard-4.3.0.zip",
     "addon_kodi_id": "plugin.program.theredwizard",
-    "zip_type": "ambos"
+    "zip_type": "ambos",
+    "sha256": "967f93b8c678f5356799a63f32b41eb67b8ef810c6ba3cf48e89e778afd8c103"
   },
   {
     "addon_id": "tv-chopo",
@@ -628,7 +645,7 @@
       "20"
     ],
     "estado": "caído",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://fuente-tvchopo.github.io",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -649,7 +666,7 @@
       "20"
     ],
     "estado": "caído",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://fuente-tvchopo.github.io",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -670,7 +687,7 @@
       "20"
     ],
     "estado": "caído",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://mylostsoulspace.co.uk/repo",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -691,14 +708,15 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://repo.redwizard.xyz",
     "repo_zip": "repository.redwizard-1.2.2.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
     "addon_zip": "plugin.program.theredwizard-4.3.0.zip",
     "addon_kodi_id": "plugin.program.theredwizard",
-    "zip_type": "ambos"
+    "zip_type": "ambos",
+    "sha256": "967f93b8c678f5356799a63f32b41eb67b8ef810c6ba3cf48e89e778afd8c103"
   },
   {
     "addon_id": "patriot",
@@ -714,7 +732,7 @@
       "20"
     ],
     "estado": "caído",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://mylostsoulspace.co.uk/repo",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -735,12 +753,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://kodiloucosbr.github.io",
     "repo_zip": "repository.kodiloucosbr-1.0.5.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "5fbfc6dd91bbbf7e8663ef531641c2532d3ed498ed223d2d50b2d3c36739ce59"
   },
   {
     "addon_id": "ez-maintenance",
@@ -756,12 +775,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://peno64.github.io/repository.peno64",
     "repo_zip": "repository.peno64-1.5.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "207aabea39c2a674c9292b24d21eb6c94c0ee493777f95e309f0ee6b937fe613"
   },
   {
     "addon_id": "portal-tv",
@@ -777,12 +797,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://dregs1.github.io",
     "repo_zip": "repository.dregs-2.36.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "b10aeb7988b5f8f913064552d5dda42b325ef90521a49936965c8598cf244d1e"
   },
   {
     "addon_id": "tacones",
@@ -798,7 +819,7 @@
       "20"
     ],
     "estado": "caído",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://teamsix-fuente.github.io",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -819,7 +840,7 @@
       "20"
     ],
     "estado": "caído",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://stva.es/r",
     "repo_zip": "repository.stva.zip",
     "fecha_añadido": "2026-05-25",
@@ -840,7 +861,7 @@
       "20"
     ],
     "estado": "pendiente_revision",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_zip": "plugin.video.LatinSports-main.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
@@ -860,7 +881,7 @@
       "20"
     ],
     "estado": "caído",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://ezra-hubbard.github.io",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -881,12 +902,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://team-crew.github.io",
     "repo_zip": "repository.thecrew-0.3.8.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "686e616ecd7d60906fd7975fe9ccaa09360c8cf0c65ba3431e6d81700b0f6ec0"
   },
   {
     "addon_id": "asgard",
@@ -902,7 +924,7 @@
       "20"
     ],
     "estado": "caído",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://mylostsoulspace.co.uk/repo",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -923,7 +945,7 @@
       "20"
     ],
     "estado": "dudoso",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://gtkingbuild.github.io",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -944,7 +966,7 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://loopaddon.uk/theloop",
     "repo_zip": "repository.loop-3.0.4.zip",
     "fecha_añadido": "2026-05-25",
@@ -967,14 +989,15 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://addon-rajada.github.io",
     "repo_zip": "repository.addon-rajada.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
     "addon_zip": "plugin.image.k-viewer-0.4.zip",
     "addon_kodi_id": "plugin.image.k-viewer",
-    "zip_type": "ambos"
+    "zip_type": "ambos",
+    "sha256": "0e5b296dbfa0e05d8e029068295e7cd75452be45309940eca2f57120448019ff"
   },
   {
     "addon_id": "iptv-buster",
@@ -990,14 +1013,15 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://addon-rajada.github.io",
     "repo_zip": "repository.addon-rajada.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
     "addon_zip": "plugin.image.k-viewer-0.4.zip",
     "addon_kodi_id": "plugin.image.k-viewer",
-    "zip_type": "ambos"
+    "zip_type": "ambos",
+    "sha256": "0e5b296dbfa0e05d8e029068295e7cd75452be45309940eca2f57120448019ff"
   },
   {
     "addon_id": "youtube",
@@ -1013,7 +1037,7 @@
       "20"
     ],
     "estado": "caído",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://mirrors.kodi.tv/addons/nexus/plugin.video.youtube",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -1034,14 +1058,16 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "http://tecnotv.club/adkodi",
     "repo_zip": "plugin.video.tecnotv.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
     "addon_zip": "plugin.video.tecnotv.zip",
     "addon_kodi_id": "plugin.video.tecnotv",
-    "zip_type": "addon"
+    "zip_type": "addon",
+    "nueva_version_disponible": true,
+    "sha256": "c1ec1d49926cdfff5399abc1b3aae57ef81f669798aed35c2cea30ef2cdf50ef"
   },
   {
     "addon_id": "doqmental",
@@ -1057,7 +1083,7 @@
       "20"
     ],
     "estado": "dudoso",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://gtkingbuild.github.io",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -1078,12 +1104,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://bugatsinho.github.io/repo",
     "repo_zip": "repository.bugatsinho-2.8.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "879c916ca78f708fc5328d64d13b0fca5dbe0ca86041b69ddec60ddd9e90dcd4"
   },
   {
     "addon_id": "fenix-mac",
@@ -1099,12 +1126,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://dregs1.github.io",
     "repo_zip": "repository.dregs-2.36.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "b10aeb7988b5f8f913064552d5dda42b325ef90521a49936965c8598cf244d1e"
   },
   {
     "addon_id": "tvloucos-mundi",
@@ -1120,12 +1148,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://kodiloucosbr.github.io",
     "repo_zip": "repository.kodiloucosbr-1.0.5.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "5fbfc6dd91bbbf7e8663ef531641c2532d3ed498ed223d2d50b2d3c36739ce59"
   },
   {
     "addon_id": "plex-live",
@@ -1141,12 +1170,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://k.slyguy.xyz",
     "repo_zip": "repository.slyguy.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "079915885866a5cbb8f17191c5ee8f7d044d7a9e788e96d116c9f1bc8bb4c3c0"
   },
   {
     "addon_id": "dradis",
@@ -1162,12 +1192,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://kodifitzwell.github.io/repo",
     "repo_zip": "repository.kodifitzwell-0.0.1.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "de3e29f3eb22de2fd568d4af284a96da66c9ae212d5429f68cb64298f26a9299"
   },
   {
     "addon_id": "sr-regio",
@@ -1183,7 +1214,7 @@
       "20"
     ],
     "estado": "pendiente_revision",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
@@ -1203,7 +1234,7 @@
       "20"
     ],
     "estado": "caído",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://teamsix-fuente.github.io",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -1224,12 +1255,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://k.slyguy.xyz",
     "repo_zip": "repository.slyguy.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "079915885866a5cbb8f17191c5ee8f7d044d7a9e788e96d116c9f1bc8bb4c3c0"
   },
   {
     "addon_id": "z3ro-cinema",
@@ -1245,7 +1277,7 @@
       "20"
     ],
     "estado": "caído",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://mylostsoulspace.co.uk/repo",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -1266,7 +1298,7 @@
       "20"
     ],
     "estado": "caído",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://fenlightanonymouse.github.io/packages",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -1287,12 +1319,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://k.slyguy.xyz",
     "repo_zip": "repository.slyguy.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "079915885866a5cbb8f17191c5ee8f7d044d7a9e788e96d116c9f1bc8bb4c3c0"
   },
   {
     "addon_id": "espada-dragao",
@@ -1308,12 +1341,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://dregs1.github.io",
     "repo_zip": "repository.dregs-2.36.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "b10aeb7988b5f8f913064552d5dda42b325ef90521a49936965c8598cf244d1e"
   },
   {
     "addon_id": "magellan",
@@ -1329,7 +1363,7 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://tinyurl.com/magellanrepo",
     "repo_zip": "repository.magellan.zip",
     "fecha_añadido": "2026-05-25",
@@ -1350,12 +1384,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "http://cmanbuildsxyz.com/repo",
     "repo_zip": "repository.cMaNWizard-3.5.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "ef54b38cb998d763de00d645940f7b6d464e9cce25e0c6dc107baa609ed66a57"
   },
   {
     "addon_id": "a3p",
@@ -1371,7 +1406,7 @@
       "20"
     ],
     "estado": "dudoso",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://is.gd/atresplayer",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -1392,7 +1427,7 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://palantir.5g.in",
     "repo_zip": "repository.estupalant.zip",
     "fecha_añadido": "2026-05-25",
@@ -1413,7 +1448,7 @@
       "20"
     ],
     "estado": "pendiente_revision",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-25",
     "instalable": false
@@ -1432,14 +1467,15 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://gunter257.github.io/repoachannels",
     "repo_zip": "repository.acestream-channels.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-28",
     "zip_type": "ambos",
     "addon_zip": "plugin.video.acestream_channels-1.2.9.zip",
-    "addon_kodi_id": "plugin.video.acestream_channels"
+    "addon_kodi_id": "plugin.video.acestream_channels",
+    "sha256": "079e52a756fd218f1580d1979f878d9ce40aa153476784a28c217985ab2ffa41"
   },
   {
     "addon_id": "chain-reaction",
@@ -1455,12 +1491,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://unhingedthemes.github.io",
     "repo_zip": "repository.chainsrepo-0.0.15.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "4ef5cf2e36433bd828fcbf18b338301c8c8e9033dc2529cbe090b54d3baf7279"
   },
   {
     "addon_id": "fights-on-demand",
@@ -1476,7 +1513,7 @@
       "20"
     ],
     "estado": "caído",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://mylostsoulspace.co.uk/repo",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -1497,7 +1534,7 @@
       "20"
     ],
     "estado": "caído",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://mylostsoulspace.co.uk/repo",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -1518,12 +1555,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://dregs1.github.io",
     "repo_zip": "repository.dregs-2.36.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "b10aeb7988b5f8f913064552d5dda42b325ef90521a49936965c8598cf244d1e"
   },
   {
     "addon_id": "quicksilver",
@@ -1539,12 +1577,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "http://cmanbuildsxyz.com/repo",
     "repo_zip": "repository.cMaNWizard-3.5.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "ef54b38cb998d763de00d645940f7b6d464e9cce25e0c6dc107baa609ed66a57"
   },
   {
     "addon_id": "the-chains",
@@ -1560,12 +1599,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://unhingedthemes.github.io",
     "repo_zip": "repository.chainsrepo-0.0.15.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "4ef5cf2e36433bd828fcbf18b338301c8c8e9033dc2529cbe090b54d3baf7279"
   },
   {
     "addon_id": "jokers-absolution",
@@ -1581,12 +1621,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://team-crew.github.io",
     "repo_zip": "repository.thecrew-0.3.8.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "686e616ecd7d60906fd7975fe9ccaa09360c8cf0c65ba3431e6d81700b0f6ec0"
   },
   {
     "addon_id": "bl-sport",
@@ -1602,12 +1643,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://cmanbuildsxyz.com/repo",
     "repo_zip": "repository.cMaNWizard-3.5.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "ef54b38cb998d763de00d645940f7b6d464e9cce25e0c6dc107baa609ed66a57"
   },
   {
     "addon_id": "footy-rewind",
@@ -1623,7 +1665,7 @@
       "20"
     ],
     "estado": "caído",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://mylostsoulspace.co.uk/repo",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -1644,12 +1686,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://www.midian.appboxes.co/wolfyB/Th3L48/repo",
     "repo_zip": "repository.thelab-25.3.27.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "2134c8bd47d4c9ef66006402de2c2fcc0c6836ebec0b639fb17c33eb083ef753"
   },
   {
     "addon_id": "umbrella",
@@ -1665,12 +1708,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://umbrellaplug.github.io",
     "repo_zip": "repository.umbrella-2.2.6.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "055105e00c7da090cc124947bc5c5e9cdae310f8687fc4c16f83d51b89750128"
   },
   {
     "addon_id": "lobo-espada",
@@ -1686,12 +1730,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://dregs1.github.io",
     "repo_zip": "repository.dregs-2.36.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "b10aeb7988b5f8f913064552d5dda42b325ef90521a49936965c8598cf244d1e"
   },
   {
     "addon_id": "black-lightning",
@@ -1707,12 +1752,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "http://cmanbuildsxyz.com/repo",
     "repo_zip": "repository.cMaNWizard-3.5.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "ef54b38cb998d763de00d645940f7b6d464e9cce25e0c6dc107baa609ed66a57"
   },
   {
     "addon_id": "naranjito",
@@ -1728,7 +1774,7 @@
       "20"
     ],
     "estado": "dudoso",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://gtkingbuild.github.io",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -1749,7 +1795,7 @@
       "20"
     ],
     "estado": "dudoso",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://fuente-chopo.github.io",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -1770,7 +1816,7 @@
       "20"
     ],
     "estado": "dudoso",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://fuente-chopo.github.io",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -1791,7 +1837,7 @@
       "20"
     ],
     "estado": "dudoso",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://fuente-chopo.github.io",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -1812,7 +1858,7 @@
       "20"
     ],
     "estado": "dudoso",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://fuente-chopo.github.io",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -1833,7 +1879,7 @@
       "20"
     ],
     "estado": "dudoso",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://fuente-chopo.github.io",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -1854,12 +1900,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "http://cmanbuildsxyz.com/repo",
     "repo_zip": "repository.cMaNWizard-3.5.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "ef54b38cb998d763de00d645940f7b6d464e9cce25e0c6dc107baa609ed66a57"
   },
   {
     "addon_id": "vavoo",
@@ -1875,7 +1922,7 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://michaz1988.github.io/repo",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -1896,7 +1943,7 @@
       "20"
     ],
     "estado": "caído",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://jlatorreaguilar.github.io/jodeteTebas/repo",
     "repo_zip": "",
     "fecha_añadido": "2026-05-25",
@@ -1917,12 +1964,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://dregs1.github.io",
     "repo_zip": "repository.dregs-2.36.zip",
     "fecha_añadido": "2026-05-25",
     "fecha_actualizado": "2026-05-26",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "b10aeb7988b5f8f913064552d5dda42b325ef90521a49936965c8598cf244d1e"
   },
   {
     "addon_id": "the-gears",
@@ -1938,12 +1986,13 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-05-31",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://unhingedthemes.github.io",
     "repo_zip": "repository.chainsrepo-0.0.15.zip",
     "zip_type": "repo",
     "fecha_añadido": "2026-05-29",
-    "fecha_actualizado": "2026-05-29"
+    "fecha_actualizado": "2026-05-29",
+    "sha256": "4ef5cf2e36433bd828fcbf18b338301c8c8e9033dc2529cbe090b54d3baf7279"
   },
   {
     "addon_id": "magellan-github-io",
@@ -1959,11 +2008,12 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-06-03",
+    "fecha_verificado": "2026-06-07",
     "repo_url": "https://euro2000.github.io/magellan.github.io",
     "fecha_añadido": "2026-06-03",
     "fecha_actualizado": "2026-06-03",
     "repo_zip": "repository.magellan.zip",
-    "zip_type": "repo"
+    "zip_type": "repo",
+    "sha256": "33a3641a3a9efe69e35475c044e3ef9de0b71ecdd5510525d082bc95f21acb81"
   }
 ]
