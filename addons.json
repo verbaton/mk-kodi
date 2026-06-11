@@ -137,7 +137,7 @@
   {
     "addon_id": "eagle-espana",
     "nombre": "Eagle España",
-    "descripcion": "Si estabas buscando un complemento «todo en uno» que estuviera dedicado especialmente al público español, hoy te traemos una recomendación que no puede faltar en tu centro multimedia. Hablamos del",
+    "descripcion": "Si estabas buscando un complemento «todo en uno» que estuviera dedicado especialmente al público español, hoy te traemos una recomendación que no puede faltar en tu centro multimedia.",
     "tipo": [
       "deportes"
     ],
@@ -148,11 +148,11 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-06-07",
+    "fecha_verificado": "2026-06-11",
     "repo_url": "https://dregs1.github.io",
     "repo_zip": "repository.dregs-2.36.zip",
     "fecha_añadido": "2026-05-25",
-    "fecha_actualizado": "2026-05-26",
+    "fecha_actualizado": "2026-06-11",
     "zip_type": "repo",
     "nueva_version_disponible": true,
     "sha256": "b10aeb7988b5f8f913064552d5dda42b325ef90521a49936965c8598cf244d1e"
