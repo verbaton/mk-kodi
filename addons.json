@@ -26,7 +26,7 @@
   {
     "addon_id": "sporthd",
     "nombre": "SportHD",
-    "descripcion": "Si estás buscando una forma rápida y directa de seguir a tus equipos favoritos, el addon",
+    "descripcion": "Si estás buscando una forma rápida y directa de seguir a tus equipos favoritos, el addon SportHD se mantiene como una de las opciones más sólidas para tu centro multimedia.",
     "tipo": [
       "deportes"
     ],
@@ -37,11 +37,11 @@
       "20"
     ],
     "estado": "activo",
-    "fecha_verificado": "2026-06-14",
+    "fecha_verificado": "2026-06-16",
     "repo_url": "https://bugatsinho.github.io/repo",
     "repo_zip": "repository.bugatsinho-2.8.zip",
     "fecha_añadido": "2026-05-25",
-    "fecha_actualizado": "2026-05-26",
+    "fecha_actualizado": "2026-06-16",
     "zip_type": "repo",
     "nueva_version_disponible": true,
     "sha256": "879c916ca78f708fc5328d64d13b0fca5dbe0ca86041b69ddec60ddd9e90dcd4"
