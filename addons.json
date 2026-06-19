@@ -2016,5 +2016,28 @@
     "repo_zip": "repository.magellan.zip",
     "zip_type": "repo",
     "sha256": "33a3641a3a9efe69e35475c044e3ef9de0b71ecdd5510525d082bc95f21acb81"
+  },
+  {
+    "addon_id": "nada-que-ver",
+    "nombre": "Nada Que Ver",
+    "descripcion": "El addon Nada Que Ver en Kodi es un complemento de video enfocado exclusivamente en contenido deportivo mediante tecnología Acestream .",
+    "tipo": [
+      "deportes"
+    ],
+    "idioma": "internacional",
+    "tutorial_url": "https://mundokodi.com/addon-nada-que-ver-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "activo",
+    "fecha_verificado": "2026-06-19",
+    "repo_url": "https://cesarbenkodi.github.io",
+    "repo_zip": "repository.GTKing-Phoenix-21.0.0.zip",
+    "addon_zip": "plugin.program.iluvatarchef.zip",
+    "addon_kodi_id": "plugin.program.iluvatarchef",
+    "zip_type": "ambos",
+    "fecha_añadido": "2026-06-19",
+    "fecha_actualizado": "2026-06-19"
   }
 ]
