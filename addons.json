@@ -2040,5 +2040,28 @@
     "fecha_añadido": "2026-06-19",
     "fecha_actualizado": "2026-06-19",
     "sha256": "b8b72a531d79127443564f38dc0e3724ede04e494b7d623919a5177a80d99935"
+  },
+  {
+    "addon_id": "clasico-film",
+    "nombre": "Clasico Film",
+    "descripcion": "El addon Clásico Film en Kodi es un complemento de video especializado en películas clásicas , pensado para quienes disfrutan del cine de décadas pasadas.",
+    "tipo": [
+      "peliculas_series"
+    ],
+    "idioma": "es_castellano",
+    "tutorial_url": "https://mundokodi.com/addon-clasico-film-kodi/",
+    "kodi_version": [
+      "21",
+      "20"
+    ],
+    "estado": "activo",
+    "fecha_verificado": "2026-06-29",
+    "repo_url": "https://oscar3553.github.io/clasicofilm",
+    "repo_zip": "plugin.video.clasicofilm.zip",
+    "addon_zip": "plugin.video.clasicofilm.zip",
+    "addon_kodi_id": "plugin.video.clasicofilm",
+    "zip_type": "addon",
+    "fecha_añadido": "2026-06-29",
+    "fecha_actualizado": "2026-06-29"
   }
 ]
